@@ -7,25 +7,11 @@ Use the Observer Pattern in the following scenarios:
 - When a change to one object requires changing others, and you don't know how many objects need to be changed.
 - When an object should be able to notify other objects without knowing who these objects are.
 
-#### Code Explanation
-
-##### Observer Pattern Implementation
-
-###### Step 1: Define the Subject Interface
-
-# Observer Pattern: YouTube Channel Example
 
 ## Introduction
 
 The Observer Pattern is a behavioral design pattern that defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. This pattern is useful for implementing distributed event handling systems.
 
-## Where to Use
-
-Use the Observer Pattern in the following scenarios:
-- When changes to one object need to be communicated to other objects without making the objects tightly coupled.
-- When an abstraction has two aspects, one dependent on the other. Encapsulating these aspects in separate objects lets you vary and reuse them independently.
-- When a change to one object requires changing others, and you don't know how many objects need to be changed.
-- When an object should be able to notify other objects without knowing who these objects are.
 
 ## Code Explanation
 

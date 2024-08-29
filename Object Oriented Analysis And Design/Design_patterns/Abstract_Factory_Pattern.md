@@ -28,8 +28,10 @@ public interface Checkbox {
     void paint();
 }
 
+```
 
 You can continue with the subsequent steps for implementing the concrete products, factories, and the client code. Here is a brief outline to guide you:
+
 
 #### Step 2: Define Concrete Products
 

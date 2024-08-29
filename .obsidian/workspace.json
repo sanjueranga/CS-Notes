@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1e6117b91dfc38",
+        "id": "688d124d84427dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "4384849268ac09d2",
+            "id": "3570eeed9b143ad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object Oriented Analysis And Design/Design_patterns/Observer.md",
-                "mode": "preview",
+                "file": "Software_Engineering/Software Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cb2e532c61844d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software_Engineering/rspec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fa6645c1c1b4544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software_Engineering/rp.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Oriented Analysis And Design/Design_patterns/Observer.md",
+                "file": "Software_Engineering/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Oriented Analysis And Design/Design_patterns/Observer.md",
+                "file": "Software_Engineering/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Oriented Analysis And Design/Design_patterns/Observer.md"
+                "file": "Software_Engineering/Software Engineering.md"
               }
             }
           }
@@ -146,34 +170,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4384849268ac09d2",
+  "active": "3570eeed9b143ad2",
   "lastOpenFiles": [
+    "Software_Engineering/val.md",
+    "Software_Engineering/rspec.md",
+    "Software_Engineering/rp.md",
+    "Software_Engineering/requirement_engineering.md",
+    "Software_Engineering/ro.md",
+    "Software_Engineering/Software Engineering.md",
+    "Software_Engineering/sdlc.md",
     "Object Oriented Analysis And Design/Design_patterns/Behavioral_patterns.md",
+    "Object Oriented Analysis And Design/Design_patterns/Strategy.md",
+    "Object Oriented Analysis And Design/Design_patterns/State.md",
+    "Object Oriented Analysis And Design/Design_patterns/Observer.md",
+    "Object Oriented Analysis And Design/Design_patterns/command.md",
     "Object Oriented Analysis And Design/Design_patterns/SW_Design_Patterns.md",
     "Object Oriented Analysis And Design/Design_patterns/Structural_Patterns.md",
-    "Object Oriented Analysis And Design/Design_patterns/flyweight.md",
+    "Object Oriented Analysis And Design/Design_patterns/Composite.md",
     "Object Oriented Analysis And Design/Design_patterns/proxy.md",
     "Object Oriented Analysis And Design/Design_patterns/facade.md",
-    "Object Oriented Analysis And Design/Design_patterns/decorator.md",
-    "Object Oriented Analysis And Design/Design_patterns/Composite.md",
-    "Object Oriented Analysis And Design/Design_patterns/Bridge.md",
     "Object Oriented Analysis And Design/Design_patterns/adapter.md",
     "Object Oriented Analysis And Design/Design_patterns/Creational_Patterns.md",
     "Object Oriented Analysis And Design/Design_patterns/Singleton_Pattern.md",
     "Object Oriented Analysis And Design/Design_patterns/Prototype_Pattern.md",
-    "Object Oriented Analysis And Design/Design_patterns/Builder_Pattern.md",
     "Object Oriented Analysis And Design/Design_patterns/Abstract_Factory_Pattern.md",
     "Object Oriented Analysis And Design/Design_patterns/Factory_Pattern.md",
-    "Object Oriented Analysis And Design/Design_patterns/Memento.md",
-    "Object Oriented Analysis And Design/Design_patterns/State.md",
-    "Object Oriented Analysis And Design/Design_patterns/Chain_of_Responsibility.md",
-    "Object Oriented Analysis And Design/Design_patterns/Interpreter.md",
-    "Object Oriented Analysis And Design/Design_patterns/Iterator.md",
-    "Object Oriented Analysis And Design/Design_patterns/Mediator.md",
-    "Object Oriented Analysis And Design/Design_patterns/command.md",
-    "Object Oriented Analysis And Design/Design_patterns/Strategy.md",
-    "Object Oriented Analysis And Design/Design_patterns/Observer.md",
-    "().md",
+    "Object Oriented Analysis And Design/UML/Uses.md",
+    "Object Oriented Analysis And Design/OOAD/Benifits_OOAD.md",
+    "Object Oriented Analysis And Design/OOAD/OOAD.md",
     "Object Oriented Analysis And Design/Design_patterns",
     "Introduction",
     "Software_Engineering",
