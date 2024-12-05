@@ -8,5 +8,6 @@
     "downscalePercent": 100
   },
   "showInlineTitle": false,
-  "foldIndent": true
+  "foldIndent": true,
+  "readableLineLength": true
 }

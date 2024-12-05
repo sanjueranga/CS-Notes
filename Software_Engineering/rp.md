@@ -62,5 +62,3 @@
     
     - Different cultural or organizational backgrounds may affect how requirements are expressed and understood.
     - Misalignment between organizational goals and stakeholder expectations can lead to conflicts.
-
-4o

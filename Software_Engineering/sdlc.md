@@ -44,3 +44,7 @@ Agile methodology is an iterative and incremental approach to SDLC, focusing on 
 - Responding to change over following a plan.
 
 Popular Agile frameworks include Scrum and Kanban, which promote iterative development cycles and frequent product increments.
+
+
+
+# [Process Models](pm.md)

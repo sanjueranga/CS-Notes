@@ -70,3 +70,36 @@ In this example:
 - There are different ways to implement the adapter pattern, such as object adapters and class adapters, depending on your specific requirements.
 
 By understanding and applying the adapter design pattern effectively, you can create well-structured, adaptable, and reusable code in your software projects.
+
+
+```java
+
+// Old interface (legacy)
+class OldPrinter {
+    public void printText(String text) {
+        System.out.println("Printing from OldPrinter: " + text);
+    }
+}
+
+// New interface (target)
+interface NewPrinter {
+    void print(String text);
+}
+
+// Adapter class (class adapter)
+class PrinterAdapter extends OldPrinter implements NewPrinter {
+    @Override
+    public void print(String text) {
+        printText(text);  // Adapt the OldPrinter's printText method to the NewPrinter's print method
+    }
+}
+
+// Client code
+public class Main {
+    public static void main(String[] args) {
+        NewPrinter printer = new PrinterAdapter();
+        printer.print("Hello, World!");  // Using the adapted interface
+    }
+}
+
+```

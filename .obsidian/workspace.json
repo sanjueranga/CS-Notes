@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "090530fe313bda9a",
+        "id": "355de309bffccd59",
         "type": "tabs",
         "children": [
           {
-            "id": "f87bfdeb5368e36a",
+            "id": "2bf2ef0154667585",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software_Engineering/agile.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Intorduction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software_Engineering/agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +107,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software_Engineering/agile.md",
+                "file": "Object Oriented Analysis And Design/Design_patterns/Behavioral_patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Behavioral_patterns"
             }
           },
           {
@@ -116,7 +123,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +134,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software_Engineering/agile.md"
-              }
+                "file": "Object Oriented Analysis And Design/Design_patterns/Behavioral_patterns.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Behavioral_patterns"
             }
           }
         ]
@@ -146,41 +157,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f87bfdeb5368e36a",
+  "active": "2bf2ef0154667585",
   "lastOpenFiles": [
-    "Software_Engineering/Software Engineering.md",
-    "Software_Engineering/agile.md",
-    "Software_Engineering/sdlc.md",
     "Software_Engineering/waterfall.md",
-    "Software_Engineering/qual.md",
     "Software_Engineering/vv.md",
-    "Software_Engineering/testing.md",
-    "Software_Engineering/tm.md",
-    "Software_Engineering/level.md",
-    "Software_Engineering/requirement_engineering.md",
     "Software_Engineering/val.md",
-    "Software_Engineering/rp.md",
-    "Software_Engineering/im.md",
-    "Software_Engineering/ad.md",
-    "Software_Engineering/modeling.md",
+    "Software_Engineering/tm.md",
+    "Software_Engineering/testing.md",
+    "Software_Engineering/sdlc.md",
+    "Software_Engineering/scrum.md",
     "Software_Engineering/rspec.md",
+    "Software_Engineering/rp.md",
     "Software_Engineering/ro.md",
-    "Object Oriented Analysis And Design/Design_patterns/Behavioral_patterns.md",
-    "Object Oriented Analysis And Design/Design_patterns/Strategy.md",
-    "Object Oriented Analysis And Design/Design_patterns/State.md",
-    "Object Oriented Analysis And Design/Design_patterns/Observer.md",
-    "Object Oriented Analysis And Design/Design_patterns/command.md",
-    "Object Oriented Analysis And Design/Design_patterns/SW_Design_Patterns.md",
-    "Object Oriented Analysis And Design/Design_patterns/Structural_Patterns.md",
-    "Object Oriented Analysis And Design/Design_patterns/Composite.md",
-    "Object Oriented Analysis And Design/Design_patterns/proxy.md",
-    "Object Oriented Analysis And Design/Design_patterns",
-    "Introduction",
+    "Software_Engineering/requirement_engineering.md",
+    "Software_Engineering/qual.md",
+    "Software_Engineering/pm.md",
+    "Software_Engineering/modeling.md",
+    "Software_Engineering/level.md",
+    "Software_Engineering/im.md",
+    "Software_Engineering/ethics.md",
+    "Software_Engineering/agile.md",
+    "Software_Engineering/ad.md",
+    "Software_Engineering/Software Engineering.md",
     "Software_Engineering",
-    "Object Oriented Analysis And Design.zip",
+    "Object Oriented Analysis And Design/UML/generalization.md",
+    "Object Oriented Analysis And Design/UML/Uses.md",
+    "Object Oriented Analysis And Design/UML/pros_cons.md",
+    "Object Oriented Analysis And Design/UML/association.md",
+    "Object Oriented Analysis And Design/UML/UML.md",
+    "Object Oriented Analysis And Design/UML/Structure.md",
     "Object Oriented Analysis And Design/UML",
-    "Object Oriented Analysis And Design/OOAD",
     "Object Oriented Analysis And Design/OOP",
-    "Object Oriented Analysis And Design"
+    "Object Oriented Analysis And Design/OOAD",
+    "Object Oriented Analysis And Design/Design_patterns",
+    "Object Oriented Analysis And Design",
+    "Advance Netwroking",
+    "Introduction",
+    "Object Oriented Analysis And Design.zip"
   ]
 }

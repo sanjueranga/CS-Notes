@@ -53,3 +53,6 @@ For a detailed overview of SDLC, please refer to for more information. Software 
 
 
 ## [Software Quality Engineering](qual.md)
+
+
+## [Ethics](ethics.md)
