@@ -11,3 +11,20 @@ pdf 2, 3
 
 
 ## [[Bluetooth_LE]]
+
+
+## [[Bluetooth_additonal]]
+
+## [[WLAN]]
+
+
+## [[MAC_SUBLAYER]]
+
+
+## [[Mobility]]
+
+
+## [[WWAN]]
+
+## [[SDN_5G_6G]]
+

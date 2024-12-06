@@ -93,5 +93,3 @@ GSM is a standard for cellular networks, offering voice, SMS, and data services.
 - Vulnerable to eavesdropping if encryption is weak or absent.
 
 ---
-
-This document provides a high-level overview of these wireless technologies. Detailed protocols, technical implementations, and specific use cases will be explored in subsequent notes.

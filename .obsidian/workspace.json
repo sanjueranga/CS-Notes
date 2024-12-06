@@ -11,10 +11,14 @@
             "id": "2bf2ef0154667585",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SDN_5G_6G.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SDN_5G_6G"
             }
           }
         ]
@@ -159,6 +163,17 @@
   },
   "active": "2bf2ef0154667585",
   "lastOpenFiles": [
+    "Advance Netwroking/Guide.md",
+    "SDN_5G_6G.md",
+    "Advance Netwroking/Bluetooth_additonal.md",
+    "Advance Netwroking/Bluetooth_LE.md",
+    "Advance Netwroking/Bluetooth_WPAN.md",
+    "Advance Netwroking/Introduction to Advanced Networking.md",
+    "Advance Netwroking/MAC_SUBLAYER.md",
+    "Advance Netwroking/Mobility.md",
+    "Advance Netwroking/Technologies overview.md",
+    "Advance Netwroking/WLAN.md",
+    "Advance Netwroking/WWAN.md",
     "Software_Engineering/waterfall.md",
     "Software_Engineering/vv.md",
     "Software_Engineering/val.md",
@@ -174,18 +189,7 @@
     "Software_Engineering/pm.md",
     "Software_Engineering/modeling.md",
     "Software_Engineering/level.md",
-    "Software_Engineering/im.md",
-    "Software_Engineering/ethics.md",
-    "Software_Engineering/agile.md",
-    "Software_Engineering/ad.md",
-    "Software_Engineering/Software Engineering.md",
     "Software_Engineering",
-    "Object Oriented Analysis And Design/UML/generalization.md",
-    "Object Oriented Analysis And Design/UML/Uses.md",
-    "Object Oriented Analysis And Design/UML/pros_cons.md",
-    "Object Oriented Analysis And Design/UML/association.md",
-    "Object Oriented Analysis And Design/UML/UML.md",
-    "Object Oriented Analysis And Design/UML/Structure.md",
     "Object Oriented Analysis And Design/UML",
     "Object Oriented Analysis And Design/OOP",
     "Object Oriented Analysis And Design/OOAD",
