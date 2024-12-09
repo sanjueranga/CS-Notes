@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "355de309bffccd59",
+        "id": "db9d50f2d30d593c",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf2ef0154667585",
+            "id": "e3d19cea6b5a3497",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advance Netwroking/Ultimate_TECH.md",
-                "mode": "preview",
+                "file": "Advance Netwroking/model_2.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ultimate_TECH"
+              "title": "model_2"
             }
           }
         ]
@@ -161,34 +161,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bf2ef0154667585",
+  "active": "2c6475112e178908",
   "lastOpenFiles": [
     "Advance Netwroking/Guide.md",
-    "Advance Netwroking/Ultimate_TECH.md",
-    "Ultimate_Tech_summary.md",
-    "Advance Netwroking/SDN_5G_6G.md",
+    "Advance Netwroking/model_2.md",
     "Advance Netwroking/Model Q.md",
-    "Supporting_functions.md",
-    "Advance Netwroking/Supporting_functions.md",
-    "Advance Netwroking/Ultimate_Tech_summary.md",
     "Advance Netwroking/Paper.md",
-    "SDN_5G_6G.md",
-    "Advance Netwroking/Bluetooth_additonal.md",
-    "Advance Netwroking/Bluetooth_LE.md",
-    "Advance Netwroking/Bluetooth_WPAN.md",
-    "Advance Netwroking/Introduction to Advanced Networking.md",
-    "Advance Netwroking/MAC_SUBLAYER.md",
     "Advance Netwroking/Mobility.md",
-    "Advance Netwroking/Technologies overview.md",
-    "Advance Netwroking/WLAN.md",
+    "Advance Netwroking/MAC_SUBLAYER.md",
+    "Advance Netwroking/Ultimate_TECH.md",
+    "Advance Netwroking/Bluetooth_WPAN.md",
+    "Advance Netwroking/Bluetooth_additonal.md",
+    "Advance Netwroking/Supporting_functions.md",
     "Advance Netwroking/WWAN.md",
+    "Advance Netwroking/SDN_5G_6G.md",
+    "Advance Netwroking/Introduction to Advanced Networking.md",
+    "Advance Netwroking/WLAN.md",
+    "Advance Netwroking/Bluetooth_LE.md",
+    "Advance Netwroking/Technologies overview.md",
+    "Ultimate_Tech_summary.md",
+    "Supporting_functions.md",
+    "Advance Netwroking/Ultimate_Tech_summary.md",
+    "SDN_5G_6G.md",
     "Software_Engineering/waterfall.md",
     "Software_Engineering/vv.md",
     "Software_Engineering/val.md",
     "Software_Engineering/tm.md",
     "Software_Engineering/testing.md",
     "Software_Engineering/sdlc.md",
-    "Software_Engineering/scrum.md",
     "Software_Engineering",
     "Object Oriented Analysis And Design/UML",
     "Object Oriented Analysis And Design/OOP",
